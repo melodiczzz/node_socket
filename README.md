@@ -6,7 +6,7 @@ Hey! Here is my first application using node.js (express) and socket.io. It is a
 
 You can read the medium blog post to follow the explanations : https://medium.com/@noufel.gouirhate/build-a-simple-chat-app-with-node-js-and-socket-io-ea716c093088
 
-# Run App
+# Run Appzcz
 
 1) Download Repo
 
